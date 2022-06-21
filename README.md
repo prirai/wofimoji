@@ -40,4 +40,6 @@ set $emoji-sel wofimoji
 bindsym $mod+period exec $emoji-sel
 ```
 
+Don't forget to add ~/.local/bin to `$PATH`. You can do this by editing either your bash, zsh or fish config or by editing `/etc/environment`.
+
 Reload sway using `mod+Shift+C`. Pressing `mod+.` now brings up the wofimoji selector.
