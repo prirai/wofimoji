@@ -2,7 +2,7 @@
 
 Emoji picker for wayland compositors using wofi.
 
-*Part of my dotfiles repository at* - (prirai/dotfiles)[https://github.com/prirai/dotfiles]
+*Part of my dotfiles repository at* - [prirai/dotfiles](https://github.com/prirai/dotfiles)
 
 ## Prerequisites
 
